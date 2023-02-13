@@ -24,7 +24,7 @@ Creates histogram that shows distribution of averages.
 
 Prints the number of times and probability of an average >= 5
 
-#PHSX815_Proj.pdf
+# PHSX815_Proj.pdf
 
 Project write up using latex
 
