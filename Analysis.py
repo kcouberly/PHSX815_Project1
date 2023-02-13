@@ -43,7 +43,7 @@ if __name__ == "__main__":
     plt.title(str(N) + ' sided die - ' + str(len(data)) + ' trials')
     plt.grid(axis='y', alpha=0.75)
     
-    #number of times average >=5 or <=2
+    #number of times average >=5
     #loop that counts these times
     count = 0
     for x in data:
