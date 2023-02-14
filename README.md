@@ -1,16 +1,22 @@
 # PHSX815_Project1
 
-How to use this code
+## Up to date write up found here
+
+https://www.overleaf.com/read/nqsbjdzystww
+
+## How to use this code
 
 ## DiceRollAverage.py
 
 Run with -h for list of possible inputs.
 
+Input number of sides on die and number of experiments to run
+
 Automatically overwrites and/or creates file 'output.txt'.
 
 Creates a file that contains a list of average dice rolls based on the inputs.
 
-Uses file Random.py to obtain categorical distribution.
+Uses file Random.py to obtain categorical distribution (need Random.py file in same folder).
 
 ## Analysis.py
 
